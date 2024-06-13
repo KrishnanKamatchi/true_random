@@ -1,0 +1,32 @@
+{
+  "name": "truerandom",
+  "version": "1.0.0",
+  "description": "True Random ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrishnanKamatchi/palindrome_algo.git"
+  },
+  "keywords": [
+    "TrueRandom",
+    "UnplannedValue"
+  ],
+  "author": "Krishnan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KrishnanKamatchi/palindrome_algo/issues"
+  },
+  "homepage": "https://github.com/KrishnanKamatchi/palindrome_algo#readme",
+  "engines": {
+    "node": ">=12.0.0",
+    "npm": ">=6.0.0"
+  },
+  "engineStrict": true,
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
